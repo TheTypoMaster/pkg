@@ -1,11 +1,11 @@
 # As a developer, I need to contact the maintainers of a package
 
 There are cases where contacting a package owner directly, and not via
-some publically facing issue queue (like GitHub or Launchpad) is
+some publicly facing issue queue (like GitHub or Launchpad) is
 desirable.
 
 Foremost may be the case where a severe security flaw needs to be
-communicate to maintainers before it is publically disclosed.
+communicate to maintainers before it is publicly disclosed.
 
 ## Notes
 - The most reasonable and common communication medium is email.
